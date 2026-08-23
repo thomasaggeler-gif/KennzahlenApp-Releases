@@ -11,7 +11,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<p>Basisversion mit automatischem Update-Mechanismus (Sparkle).</p>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.zip" length="1584741" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.zip" sparkle:edSignature="h/fxMWZruZCJt2yo3Gvt/ksj7jhGH0yfyjxlzFCH+uCUrQwZ+yWxxjbSR7tXVMkXsgHqdyHLg+bMaN3DnBx0Ag==" length="1584741" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
