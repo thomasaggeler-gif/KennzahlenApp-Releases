@@ -3,6 +3,20 @@
     <channel>
         <title>KennzahlenApp</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Sun, 23 Aug 2026 17:17:57 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Testversion: prüft den kompletten Update-Ablauf (Herunterladen und Installieren) mit korrekter Netzwerk-Berechtigung.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.2.zip" length="1584900" type="application/octet-stream" sparkle:edSignature="FJILkdYro2wfjTgz/BRDHdQKOkjxlucwKufLqsQSSr8H+kc9q5wCfjt39rYbh6b9yYKsDxf1WnpCJ4MYsILODA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp6-4.delta" sparkle:deltaFrom="4" length="1546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RcktYZ7yOsn0E9TA8qcQnqzaOgvroAYwMmxgza6Pz4ReEh0JZYlK5hIbBEaIC/pD01jCQvI/2gTYsLx3HBZDCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sun, 23 Aug 2026 17:10:11 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -11,7 +25,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<p>Testversion: prüft den automatischen Update-Mechanismus (jetzt mit korrekter Konfiguration).</p>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.1.zip" sparkle:edSignature="pUBb+fngOuDrTK1Is8Gyr3jtbvrAw9yIsLxpY8PQ8q5421SxyDncp6das+Z7Ysu8wxstYRV/Ro4H+K8ewWhUBg==" length="1584883" type="application/octet-stream" sparkle:edSignature="pUBb+fngOuDrTK1Is8Gyr3jtbvrAw9yIsLxpY8PQ8q5421SxyDncp6das+Z7Ysu8wxstYRV/Ro4H+K8ewWhUBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.1.zip" length="1584883" type="application/octet-stream" sparkle:edSignature="pUBb+fngOuDrTK1Is8Gyr3jtbvrAw9yIsLxpY8PQ8q5421SxyDncp6das+Z7Ysu8wxstYRV/Ro4H+K8ewWhUBg=="/>
         </item>
         <item>
             <title>1.1.1</title>
@@ -22,18 +36,7 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description><![CDATA[<p>Testversion: prüft den automatischen Update-Mechanismus.</p>
 ]]></description>
-            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.1.zip" sparkle:edSignature="fsAecRr5fXRAxJxiwTEozLqT7HwGVQTyv9ZPFxJ9Jb0JvidrIqwlawJzyNiYL+aos8OJfdRG9s+RclsngxoxAQ==" length="1584742" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Sun, 23 Aug 2026 16:40:08 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Basisversion mit automatischem Update-Mechanismus (Sparkle).</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.zip" length="1584741" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.1.zip" length="1584742" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
