@@ -4,6 +4,17 @@
         <title>KennzahlenApp</title>
         <item>
             <title>1.1.1</title>
+            <pubDate>Sun, 23 Aug 2026 17:10:11 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Testversion: prüft den automatischen Update-Mechanismus (jetzt mit korrekter Konfiguration).</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.1.zip" sparkle:edSignature="pUBb+fngOuDrTK1Is8Gyr3jtbvrAw9yIsLxpY8PQ8q5421SxyDncp6das+Z7Ysu8wxstYRV/Ro4H+K8ewWhUBg==" length="1584883" type="application/octet-stream" sparkle:edSignature="pUBb+fngOuDrTK1Is8Gyr3jtbvrAw9yIsLxpY8PQ8q5421SxyDncp6das+Z7Ysu8wxstYRV/Ro4H+K8ewWhUBg=="/>
+        </item>
+        <item>
+            <title>1.1.1</title>
             <pubDate>Sun, 23 Aug 2026 17:00:45 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
