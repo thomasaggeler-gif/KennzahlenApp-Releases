@@ -3,6 +3,24 @@
     <channel>
         <title>KennzahlenApp</title>
         <item>
+            <title>1.1.21</title>
+            <pubDate>Fri, 04 Sep 2026 12:34:18 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.1.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>PDF-Import erkennt weitere Offerten-Layouts. Bezeichnungen werden aus dem PDF-Text korrigiert. Datenbank und Auswertung lassen sich als klappbare Excel-Preisliste exportieren.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.21.zip" length="6034477" type="application/octet-stream" sparkle:edSignature="TYrJR/zHQfUfUrpcqyjrjuaeFfssxDXvfCfEXF132AVOLhE3QPn2UvB83RRaveA6MS66Se4FFTp1fqEPYHQPDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp25-24.delta" sparkle:deltaFrom="24" length="175590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7FkdoY6FlZLaEKnxkii6JjJe52dx8bBTg3g59/4tSYndSrUyqGTT2B2dMzBFteaWAsz/qwX3gxg1n/qdWKauAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp25-23.delta" sparkle:deltaFrom="23" length="177450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+BiHLaRxSGL4z/Ubimh/banhtVjqqfnGhnzHbDYMLwul+CvxyRuWVoZAxmcGCiPWPOc9iw3nN3vy52o/AxGkAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp25-22.delta" sparkle:deltaFrom="22" length="188358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PIZE/JSQmSaSh0cZDgK9jits0717wbE7PrqOkwPn5TaUoBlcfAgxvCn2nMPMLwSN8SySdSI2pjT7kdEurJULCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp25-21.delta" sparkle:deltaFrom="21" length="215830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HS7S3U+c1eLUXKH4lHoFEyWPol6OznqCKLJBX4WlH9Gq4ES8JxHdpV6s3N9i7eq7gTJFOCzJP0+BG0P6AcbiAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp25-20.delta" sparkle:deltaFrom="20" length="236654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e1D11Ro7CpgJ369EeFkP4tqm7MmQjjoerKfBVHTKn8b0F7cm2oIImL5ieFyrxFR0gq9KJlweaadnXHLLrXLtBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.20</title>
             <pubDate>Wed, 02 Sep 2026 22:41:50 +0200</pubDate>
             <sparkle:version>24</sparkle:version>
@@ -13,11 +31,11 @@
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.20.zip" length="5966922" type="application/octet-stream" sparkle:edSignature="HwT7gN4mOMA3XZNEtTTeuw0oyZcI1i0m/DVIgomnAh1fDOH17YP+DOB7l/HOhzGsqqwTu6Bselzbe1hvK/1dCw=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-23.delta" sparkle:deltaFrom="23" length="31790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nUZGr+bFK4chBrCBXOFrNMhJt023aDSNd+cGuYsYBPU5NASgJZEFC+mjZzQUgI0JCr8CYdXSJaebHPKD9AJzDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-22.delta" sparkle:deltaFrom="22" length="64062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="llGLdnPgIw1eWvGs3mr1s0n0RTHcfSUCgsoJqQLipAZGNjdfKKMU1CZqn3LSyi08xtI1z/zkqp2YcsG81DdrBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-21.delta" sparkle:deltaFrom="21" length="117022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o0mPRTW2fBLKiLdQggP6qOrrnBO9hT0kE+Wd0G+q0WyGALCuF8MpexnBKaybW8i8WiDZxQPJFQPIQQxizRcJDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-20.delta" sparkle:deltaFrom="20" length="147866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3j25eB6IJ3Vveq1aGUZXMb0L6l1xTgk6gFwWCOS1S199etGGdyPp4D/WUTUX4BZfJZ3MesC5Ihh6m463Cvd3BQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-19.delta" sparkle:deltaFrom="19" length="154310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="s7sLiQV12YUuhCTHHAcf3ukSza0uESZPMJLABYCh4KDOaS2vH8Wb5QB7Yw48YQaERhAPwCPU0Cm6CzFQAJTjDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-23.delta" sparkle:deltaFrom="23" length="31790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-22.delta" sparkle:deltaFrom="22" length="64062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-21.delta" sparkle:deltaFrom="21" length="117022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-20.delta" sparkle:deltaFrom="20" length="147866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp24-19.delta" sparkle:deltaFrom="19" length="154310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
         <item>
@@ -36,24 +54,6 @@
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp23-20.delta" sparkle:deltaFrom="20" length="148682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp23-19.delta" sparkle:deltaFrom="19" length="154298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
                 <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp23-18.delta" sparkle:deltaFrom="18" length="157930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1.18</title>
-            <pubDate>Wed, 02 Sep 2026 22:18:44 +0200</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.1.18</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<p>Bezeichnung-Spalte nutzt den restlichen Platz – Listen sind besser lesbar.</p>
-]]></description>
-            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.18.zip" length="5965492" type="application/octet-stream" sparkle:edSignature="eyyDVGagDcx7YIsqEqItd1EzE7buZkMhHMm73zqLyALFMpg0wzv70PgppZ/5YX7n+6nwHaWrHf6QaGToql+TDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp22-21.delta" sparkle:deltaFrom="21" length="104070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp22-20.delta" sparkle:deltaFrom="20" length="143726" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp22-19.delta" sparkle:deltaFrom="19" length="149642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp22-18.delta" sparkle:deltaFrom="18" length="155330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp22-17.delta" sparkle:deltaFrom="17" length="154582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
     </channel>
