@@ -3,6 +3,21 @@
     <channel>
         <title>KennzahlenApp</title>
         <item>
+            <title>1.1.44</title>
+            <pubDate>Tue, 13 Oct 2026 09:37:03 +0200</pubDate>
+            <sparkle:version>48</sparkle:version>
+            <sparkle:shortVersionString>1.1.44</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Maler-Wind-Devisierung wird gelesen. Datenbank: Sortierung nach Rubrik, Unternehmer und Projekt. EP und Total exkl. MWST werden genau mit Rappen übernommen, nur die inkl.-Beträge werden auf Franken gerundet. Zahlenfelder verlieren beim Tippen keine Ziffern mehr.</p>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.44.zip" length="5649856" type="application/octet-stream" sparkle:edSignature="zA8yNpFX5uaIzpT7Xo6YhCGA/KRoUZrOpd566BQAaI6GI5CQD0viUZya/ju0QSXQ9ZHY+sKXZxstLKF8Jb3gBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/Kennzahlen48-47.delta" sparkle:deltaFrom="47" length="121778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XdlHfv810OpdsX+c87zI8Yp7gSMNik1LDcP01Hy8CwNBU7PT/OTnX9lrmUPjxUuv6cYEItdxMuBmo28YHOlNCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/Kennzahlen48-46.delta" sparkle:deltaFrom="46" length="252638" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6lV475yBiaLGHxBNNoeG162CoIGqwXB+aMbciMNjyF8EbL6wepUYmANbxMttFjiixO1J7IexMHHwQoKMIqXtDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.43</title>
             <pubDate>Mon, 12 Oct 2026 20:13:34 +0200</pubDate>
             <sparkle:version>47</sparkle:version>
@@ -13,7 +28,7 @@
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/KennzahlenApp-1.1.43.zip" length="5647002" type="application/octet-stream" sparkle:edSignature="gw62eiBbTFUF/wOQZ12Ifkb9ugE39L8SGPz9F6Xrtj5ad5FSEf9jW2RLdWh/D3Pfk1DuFAbTM9yhY4yymMQOCA=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/Kennzahlen47-46.delta" sparkle:deltaFrom="46" length="238150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M0KrqAHlDYW1wTYdJp9gRx1eC2JkiGRYO7Qt03Wx3t2mg6eP2V76kL5FaVqkZQyBNY9Q43Vs9bh3mP5PjLZlAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/thomasaggeler-gif/KennzahlenApp-Releases/main/Kennzahlen47-46.delta" sparkle:deltaFrom="46" length="238150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk"/>
             </sparkle:deltas>
         </item>
         <item>
